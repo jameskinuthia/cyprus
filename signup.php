@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Sign Up with CYPRUS</title>
+  <title>Sign  CYPRUS</title>
   
   
   
