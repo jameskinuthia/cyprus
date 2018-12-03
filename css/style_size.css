@@ -1,0 +1,13 @@
+.size{
+        size: relative;
+        background-color: #2d6e84;
+    }
+.color{
+	background-color: white;
+	color: green;
+}
+.background{
+	background-color: #384047;
+	color: black;
+	size: relative;
+}
